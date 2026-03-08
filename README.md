@@ -2,6 +2,28 @@
 
 ShopSphere is a full-stack e-commerce application. The backend is powered by Python and Flask, paired with a lightweight vanilla JavaScript frontend.
 
+## 📸 Screenshots
+
+### User Experience
+**Home Page**
+![Homepage for User](.doc/user-hompage.png)
+
+**Shopping Cart**
+![Shopping Cart for User](.doc/user-cart.png)
+
+**Order History**
+![Order History for User](.doc/user-order-history.png)
+
+### Admin Experience
+**Admin Dashboard**
+![Admin Dashboard](.doc/admin-homepage.png)
+
+**Add Product**
+![Add Product for Admin](.doc/admin-add-product.png)
+
+**Bulk Add Products**
+![Bulk Add Products for Admin](.doc/admin-add-bulk-products.png)
+
 ## 🛠️ Technology Stack
 
 ### Backend
@@ -77,25 +99,3 @@ This project adheres to several industry-standard best practices:
    # OR
    python -m http.server 3000
    ```
-
-## 📸 Screenshots
-
-### User Experience
-**Home Page**
-![](.doc/user-hompage.png)
-
-**Shopping Cart**
-![](.doc/user-cart.png)
-
-**Order History**
-![](.doc/user-order-history.png)
-
-### Admin Experience
-**Admin Dashboard**
-![](.doc/admin-homepage.png)
-
-**Add Product**
-![](.doc/admin-add-product.png)
-
-**Bulk Add Products**
-![](.doc/admin-add-bulk-products.png)
